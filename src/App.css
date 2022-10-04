@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+.general {
+  border: 1px solid black;
+  width: 500px;
+  height: 200px;
+  text-align: center;
+  display: inline-block;
+}
+
+.click1 {
+  background-color: red;
+  color: white;
+}
+
+.click2 {
+  background-color: lightgrey;
+  color: black;
+}
