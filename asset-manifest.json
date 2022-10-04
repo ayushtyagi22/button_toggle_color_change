@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/button_toggle_color_change/static/css/main.6179036c.css",
+    "main.js": "/button_toggle_color_change/static/js/main.1603feeb.js",
+    "static/js/787.f2cd7484.chunk.js": "/button_toggle_color_change/static/js/787.f2cd7484.chunk.js",
+    "index.html": "/button_toggle_color_change/index.html",
+    "main.6179036c.css.map": "/button_toggle_color_change/static/css/main.6179036c.css.map",
+    "main.1603feeb.js.map": "/button_toggle_color_change/static/js/main.1603feeb.js.map",
+    "787.f2cd7484.chunk.js.map": "/button_toggle_color_change/static/js/787.f2cd7484.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6179036c.css",
+    "static/js/main.1603feeb.js"
+  ]
+}
